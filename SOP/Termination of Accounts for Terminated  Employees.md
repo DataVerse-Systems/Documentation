@@ -1,9 +1,11 @@
-# Standard Operating Procedure (SOP)
-## Termination of Accounts for Terminated Employees
+# Standard Operating Procedure (SOP): Termination of Accounts for Terminated Employees
 
 
 **Date**: June 19, 2023  
-**Authors**: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert
+
+**Author**: David Siebert.
+
+**Contributors** David Prutch, Gerald Reitmeyer, Robert Gillespie.
 
 
 ## Purpose

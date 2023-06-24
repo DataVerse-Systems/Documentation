@@ -1,10 +1,11 @@
-# Standard Operating Procedure (SOP)
-## New Network Accounts for Onboarding Employees
+# Standard Operating Procedure (SOP): New Network Accounts for Onboarding Employees
 
 
 **Date**: June 19, 2023  
-**Authors**: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert
 
+**Author**: David Siebert.
+
+**Contributors** David Prutch, Gerald Reitmeyer, Robert Gillespie.
 
 ## Purpose
 The purpose of this SOP is to outline the process for creating new network accounts for onboarding employees. This procedure ensures a consistent and secure approach to provisioning network access for new employees.

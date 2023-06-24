@@ -1,10 +1,11 @@
-# Standard Operating Procedure (SOP)
-## User Data Access from Company Domain Systems
+# Standard Operating Procedure (SOP): User Data Access from Company Domain Systems
 
 
 **Date**: June 19, 2023  
-**Authors**: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert.
 
+**Author**: David Siebert.
+
+**Contributors** David Prutch, Gerald Reitmeyer, Robert Gillespie.
 
 ## Purpose
 The purpose of this SOP is to outline the process for accessing user data from company domain systems. This procedure ensures the proper handling and safeguarding of user data while adhering to privacy and security policies.
