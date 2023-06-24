@@ -1,5 +1,4 @@
-# Standard Operating Procedure (SOP)
-## Termination of Accounts for Terminated Employees
+# Standard Operating Procedure (SOP): Termination of Accounts for Terminated Employees
 
 
 **Date**: June 19, 2023  
