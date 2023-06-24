@@ -1,5 +1,4 @@
-# Standard Operating Procedure (SOP)
-## New Network Accounts for Onboarding Employees
+# Standard Operating Procedure (SOP): New Network Accounts for Onboarding Employees
 
 
 **Date**: June 19, 2023  
