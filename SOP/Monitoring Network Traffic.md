@@ -2,8 +2,8 @@
 
 
 **Date**: June 21, 2023  
-**Authors**: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert
-
+**Author**: David Siebert.
+**Contributors** David Prutch, Gerald Reitmeyer, Robert Gillespie.
 
 ## 1. Purpose
 The purpose of this SOP is to outline the process for monitoring network traffic in order to ensure network performance, identify potential security threats, and troubleshoot network issues effectively.
