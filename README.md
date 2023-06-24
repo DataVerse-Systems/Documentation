@@ -6,6 +6,7 @@ Documentation repository contains:
 
 ## Network Structure
 [Network Design](https://github.com/DataVerse-Systems/Documentation/blob/main/Network%20Structure/SunFlow%20Network%20Design.pdf)
+
 [Network Topology](https://github.com/DataVerse-Systems/Documentation/blob/main/Network%20Structure/DataVerse_Systems_Topology.png)
 
 ## SOPs
