@@ -61,7 +61,7 @@ This SOP applies to all system administrators and personnel responsible for mana
 
 ## 6. References
 - Learn Windows Server: Windows Server Update Services (WSUS)
-- Windows Server Update Services (WSUS) documentation: [Windows Server update services](https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows)
+- [Windows Server Update Services (WSUS) documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows)
 
 ## 8. Revision History
 - Revision 2: June 24, 2023
