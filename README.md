@@ -23,3 +23,9 @@ Documentation repository contains:
 [Termination of Accounts for Terminated Employees](https://github.com/DataVerse-Systems/Documentation/blob/main/SOP/Termination%20of%20Accounts%20for%20Terminated%20Employees)
 
 [User Data Access from Company Domain Systems](https://github.com/DataVerse-Systems/Documentation/blob/main/SOP/User%20Data%20Access%20from%20Company%20Domain%20Systems)
+
+## Configuration Files
+
+[AWS VPN Config](https://github.com/DataVerse-Systems/Documentation/blob/main/Configuration%20Files/aws_vpn_config.txt)
+
+[pfSense VPN Config](https://github.com/DataVerse-Systems/Documentation/blob/main/Configuration%20Files/pfSense_config.xml)
