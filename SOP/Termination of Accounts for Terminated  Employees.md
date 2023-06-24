@@ -3,7 +3,8 @@
 
 
 **Date**: June 19, 2023  
-**Authors**: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert
+**Author**: David Siebert.
+**Contributors** David Prutch, Gerald Reitmeyer, Robert Gillespie.
 
 
 ## Purpose
