@@ -7,7 +7,7 @@ Documentation repository contains:
 ## Network Structure
 [Network Design](https://github.com/DataVerse-Systems/Documentation/blob/main/Network%20Structure/SunFlow%20Network%20Design.pdf)
 
-[Network Topology](https://github.com/DataVerse-Systems/Documentation/blob/main/Network%20Structure/DataVerse_Systems_Topology.png)
+[Network Topology](https://github.com/DataVerse-Systems/Documentation/blob/main/Network%20Structure/Globex_SunFlow_Topology.jpg)
 
 ## SOPs
 [Manage and Maintain Network Security](https://github.com/DataVerse-Systems/Documentation/blob/main/SOP/Manage%20and%20Maintain%20Network%20Security)
