@@ -77,9 +77,9 @@ This SOP applies to all network administrators and personnel responsible for man
 
 
 ## Revision History
-- Revision 1: June 21, 2023
+- Revision 2: June 24, 2023
   - Authors: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert
-  - Changes: Initial creation of the SOP.
+  - Changes: Format Correction.
 
 
 **Note**: This SOP should be reviewed periodically to ensure its effectiveness and alignment with evolving security threats and industry best practices.

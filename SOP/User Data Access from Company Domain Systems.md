@@ -58,9 +58,9 @@ This SOP applies to authorized personnel who need to access user data from compa
 
 
 ## Revision History
-- Revision 1: June 19, 2023
+- Revision 3: June 24, 2023
   - Contributors: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert
-  - Changes: Initial creation of the SOP.
+  - Changes: Format correction.
 
 
 **Note**: This SOP is subject to review and revision as necessary to ensure its accuracy and relevance.

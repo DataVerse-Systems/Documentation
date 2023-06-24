@@ -82,6 +82,7 @@ Include any relevant references or sources used to develop this SOP.
 
 
 ## 8. Revision History
-- Revision 1: June 21, 2023
+- Revision 3: June 24, 2023
   - Authors: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert
-  - Changes: Initial creation of the SOP.
+  - Changes: Format Correction.
+
