@@ -1,5 +1,4 @@
-# Standard Operating Procedure (SOP)
-## User Data Access from Company Domain Systems
+# Standard Operating Procedure (SOP): User Data Access from Company Domain Systems
 
 
 **Date**: June 19, 2023  
