@@ -1,7 +1,9 @@
 # Standard Operating Procedure (SOP): OS Version Control
 
 **Date**: June 21, 2023  
-**Authors**: David Prutch, Gerald Reitmeyer, Robert Gillespie, David Siebert
+**Author**: David Siebert.
+**Contributors** David Prutch, Gerald Reitmeyer, Robert Gillespie.
+
 
 ## 1. Purpose
 The purpose of this SOP is to establish guidelines for version control of the operating system (OS) within the organization. It ensures that OS updates and patches are effectively managed, deployed, and maintained to enhance security, stability, and operational efficiency.
