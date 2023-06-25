@@ -5,7 +5,7 @@ Documentation repository contains:
 - All Standard Operating Procedures for the support of SunFlow. 
 
 ## Network Structure
-[Network Design](https://github.com/DataVerse-Systems/Documentation/blob/main/Network%20Structure/SunFlow%20Network%20Design.pdf)
+[Network Design](https://github.com/DataVerse-Systems/Documentation/blob/main/Network%20Structure/Network_Design.md)
 
 [Network Topology](https://github.com/DataVerse-Systems/Documentation/blob/main/Network%20Structure/Globex_SunFlow_Topology.jpg)
 
