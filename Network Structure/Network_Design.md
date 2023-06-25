@@ -45,9 +45,15 @@ This document outlines the network design for the AWS VPC infrastructure with an
 
 ### pfSense Router
 - Router Type: pfSense
-- Public IP NAT:15.0.1.0/24
-- Public IP: 192.168.0.1/24
-- Internal IP: 10.0.5.1/24
+
+    | Network          | IP Address    | Subnet Mask  |
+    |------------------|---------------|--------------|
+    | Public IP NAT    | 15.0.1.0/24   | N/A          |
+    | Public IP        | 192.168.0.1  | 255.255.255.0 |
+    | Internal IP      | 10.0.5.1      | 255.255.255.0 |
+    | DHCP Lease Range  | 10.0.5.50 - 10.0.5.250 |
+    | Reserved Address Range | 10.0.5.2 - 10.0.5.49 |
+
 
 ### VPN Configuration
 - VPN Type: IPsec
